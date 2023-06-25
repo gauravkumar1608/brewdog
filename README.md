@@ -1,6 +1,6 @@
 # R project: Product segmentation using hierarchical clustering on Brewdog Data
 
-## Aim of the projecct:
+## Aim of the project:
 
 The aim of this project is to use hierarchical clustering to segment 199 varieties of Brewdog Beer. 
 
